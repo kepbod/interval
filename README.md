@@ -1,7 +1,8 @@
+[![Build Status](https://travis-ci.org/kepbod/interval.svg?branch=master)](https://travis-ci.org/kepbod/interval)
 interval -- Python package dealing with intervals
 =================================================
 
-* Author: Xiao-Ou Zhang <kepbod@gmail.com>
+* Author: Xiao-Ou Zhang
 * Version: 1.0
 
 License
