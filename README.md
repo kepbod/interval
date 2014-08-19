@@ -1,9 +1,11 @@
-[![Build Status](https://travis-ci.org/kepbod/interval.svg?branch=master)](https://travis-ci.org/kepbod/interval)
-interval -- Python package dealing with intervals
+interval -- A simple python module dealing with intervals
 =================================================
+
+[![Build Status](https://travis-ci.org/kepbod/interval.svg?branch=master)](https://travis-ci.org/kepbod/interval)
 
 * Author: Xiao-Ou Zhang
 * Version: 1.0
+* Document: https://github.com/kepbod/interval/blob/master/interval.py
 
 License
 =======
