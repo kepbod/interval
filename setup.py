@@ -10,6 +10,7 @@ setup(name='interval',
       author_email='kepbod@gmail.com',
       maintainer='Xiao-Ou Zhang',
       maintainer_email='kepbod@gmail.com',
+      url='https://github.com/kepbod/interval',
       license='MIT',
       py_modules=['interval']
       )
