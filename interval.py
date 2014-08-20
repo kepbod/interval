@@ -246,7 +246,7 @@ class Interval:
 
     @staticmethod
     def __convert(interval):
-        assert type(interval) is list, 'Error: the type you use is {}'.format(type(interval))
+        assert type(interval) is list, 'the type you use is {}'.format(type(interval))
         if not interval:
             return interval
         if type(interval[0]) is list:
