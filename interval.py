@@ -6,7 +6,7 @@ version: 1.0
 
 import copy
 
-class Interval:
+class Interval(object):
     '''
     Class: Interval
 
